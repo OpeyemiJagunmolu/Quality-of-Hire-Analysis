@@ -10,8 +10,13 @@
 
 ### INSIGHTS
 
+In this project, the age column was filtered for the grouping.
+The Date column was changed to the Datetype format and it was used to determine the minimum and maximum hire date.
 
 
 ## ANALYSIS
-![Quality of Hire](https://user-images.githubusercontent.com/122671659/227733916-225ecd0d-3d33-4de7-b96f-7c05c7c0a014.jpg)
+![QUALITY OF HIRE](https://user-images.githubusercontent.com/122671659/235329999-b468c150-bcef-4038-8fa5-5fd3988bf0c3.jpg)
+
+
+
 
